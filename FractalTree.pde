@@ -1,5 +1,5 @@
 private double fractionLength = .8; 
-private int smallestBranch = 8; 
+private int smallestBranch = 10; 
 private double branchAngle = .2;  
 private int red, green, blue;
 public void setup() 
